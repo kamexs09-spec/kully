@@ -1,13 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.883a858d.css",
-    "main.js": "/static/js/main.4e227444.js",
+    "main.css": "/static/css/main.cc5240bd.css",
+    "main.js": "/static/js/main.4cddb0b8.js",
+    "static/media/kully_banner3.jpg": "/static/media/kully_banner3.2f76552e8666e5c446c3.jpg",
+    "static/media/kully_banner4.jpg": "/static/media/kully_banner4.7b34aec3d5944dbf4870.jpg",
+    "static/media/kully_banner1.jpg": "/static/media/kully_banner1.2438332a209928bb7d1a.jpg",
+    "static/media/kully_banner2.jpg": "/static/media/kully_banner2.1cfa6b6620ebfd7fa22c.jpg",
+    "static/media/sub01_product1.jpg": "/static/media/sub01_product1.cbc49c11c01323f4eb1f.jpg",
+    "static/media/sub01_product4.jpg": "/static/media/sub01_product4.a35fe0e8d9bca4598ae4.jpg",
+    "static/media/sub01_product5.jpg": "/static/media/sub01_product5.4d1531d6bb7ed0ca789f.jpg",
+    "static/media/sub01_product2.jpeg": "/static/media/sub01_product2.5e8367ccfafbfa7d3fef.jpeg",
+    "static/media/sub01_product3.jpg": "/static/media/sub01_product3.6ec65a4ba1bb4c5c63f4.jpg",
+    "static/media/kully_logo.svg": "/static/media/kully_logo.821ca24b957a704c159266b88b63f6c1.svg",
+    "static/media/position.svg": "/static/media/position.d13f69e54570f66f39fd6968e8caeef1.svg",
     "index.html": "/index.html",
-    "main.883a858d.css.map": "/static/css/main.883a858d.css.map",
-    "main.4e227444.js.map": "/static/js/main.4e227444.js.map"
+    "static/media/fav.svg": "/static/media/fav.13b527c7d607af656a0d5f72571a5909.svg",
+    "static/media/cart.svg": "/static/media/cart.77c57e092ba2455a9631d97b6affe133.svg",
+    "static/media/searchIcon.svg": "/static/media/searchIcon.9456ee72333d00bfd1c9a389b54cb073.svg",
+    "static/media/category.svg": "/static/media/category.7a5de209936f571dc805dcc35c1460dc.svg",
+    "main.cc5240bd.css.map": "/static/css/main.cc5240bd.css.map",
+    "main.4cddb0b8.js.map": "/static/js/main.4cddb0b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.883a858d.css",
-    "static/js/main.4e227444.js"
+    "static/css/main.cc5240bd.css",
+    "static/js/main.4cddb0b8.js"
   ]
 }
